@@ -25,7 +25,7 @@ SECRET_KEY = '*0=vusa&&&(!5af%1@4vp^^f^9yxlcj3^pe1v6^87#by00-q4s'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['dfcooper.pythonanywhere.com']
+ALLOWED_HOSTS = ['dfcooper.pythonanywhere.com', '*']
 
 
 # Application definition
